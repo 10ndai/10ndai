@@ -1,16 +1,18 @@
-## Hi there 👋
+# Tendai Dzuda
 
-<!--
-**10ndai/10ndai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data science and research, based in Harare, Zimbabwe.
 
-Here are some ideas to get you started:
+Working at the intersection of applied machine learning and public health / social research — currently building out projects in ML pipelines, sports analytics, and health data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently**
+- Researcher & Data Scientist, Mind at Heart
+- Research Assistant, King's College London
+
+**Credentials**
+- RSS Fellow
+
+---
+
+📌 Pinned below — more projects landing here as they're pushed.
+
+🔗 [LinkedIn](#) · [Portfolio](#)
