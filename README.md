@@ -1,4 +1,4 @@
-# Tendai Dzuda
+# Tendai
 
 Data science and research, based in Harare, Zimbabwe.
 
