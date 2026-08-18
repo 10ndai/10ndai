@@ -2,7 +2,7 @@
 
 Data science and research, based in Harare, Zimbabwe.
 
-Working at the intersection of applied machine learning and public health / social research — currently building out projects in ML pipelines, sports analytics, and health data.
+Working at the intersection of applied machine learning and Mental Health research — currently building out projects in ML pipelines and health data.
 
 **Currently**
 - Researcher & Data Scientist, Mind at Heart
