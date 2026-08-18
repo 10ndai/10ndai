@@ -15,4 +15,4 @@ Working at the intersection of applied machine learning and Mental Health resear
 
 📌 Pinned below — more projects landing here as they're pushed.
 
-🔗 [LinkedIn](#) · [Portfolio](#)
+🔗 [LinkedIn](#) · [Portfolio](#10ndai.github.io)
