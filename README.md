@@ -15,4 +15,4 @@ Working at the intersection of applied machine learning and Mental Health resear
 
 📌 Pinned below — more projects landing here as they're pushed.
 
-🔗 [LinkedIn](#) · [Portfolio](#10ndai.github.io)
+🔗 [LinkedIn](https://www.linkedin.com/in/tendai-d-512505257/) · [Portfolio](https://10ndai.github.io)
